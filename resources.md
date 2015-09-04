@@ -36,6 +36,8 @@
  <li>[keras](https://github.com/fchollet/keras) - Theano-based Deep Learning library (convnets, recurrent neural networks, and more)
  <li>[pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on Theano
  <li>[OpenCV-Python tutorials](https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
+ <li>[Installing OpenCV-Python on a MAC](http://www.mobileway.net/2015/02/14/install-opencv-for-python-on-mac-os-x/)
+ <li>[Sloth](https://github.com/cvhciKIT/sloth) - we may be able to use this for our image labeling
 
 <h4>Miscellany</h4>
 
