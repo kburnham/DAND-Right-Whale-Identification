@@ -47,7 +47,7 @@ There are three main tasks before us to accomplish our goal, described below. Al
 
 2. Train a whale identifier that, given a full image returns the coordinates of the portion of the image that includes a whale. This image will then be passed to the identifier in part 3. As noted above there is a tutorial on Kaggle that uses MatLab for this process, but I have not had much luck with it and would prefer that we instead try to use OpenCV for this purpose. I would rather get practice using Python than try to learn something new (for me at least). It also means that the skills we acquire will be more generalizable.
 
-3. Train an identifier that, given a cropped image of a whale, identifies that whale. In fact the identifier should output a vector of probabilities, one for each whale in the dataset. As noted above, I believe that the best way to do this is through the use of a Convolutional Neural Network which has been succesfully used for many other image related tasks. Based on my preliminary research implementing a CNN is no simple task, so we may prefer to first try a simpler implementation (a basic neural network?) and move forward from there. 
+3. Train an identifier that, given a cropped image of a whale, identifies that whale. In fact the identifier should output a vector of probabilities, one for each whale in the dataset. As noted above, I believe that the best way to do this is through the use of a Convolutional Neural Network which has been succesfully used for many other image related tasks. However, before we do that I think we should try to implement a very simple model to get started and then brainstorm as to how we want to move forward from there.
 
 
 
