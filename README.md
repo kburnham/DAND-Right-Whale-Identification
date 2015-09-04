@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-<p>This is the repository for team DAND's (I am open to any alternate suggestions for a name - Fine and DANDy?, DANDy Lions?) entry in the Kaggle Competiton [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition). The team is composed of graduates of Udacity's Data Analyst Nanodegree. The purpose of this competition is to build an algorithm that can identify specific whales from overhead photographs. See the [Resources.md](Resources.md) file above for a (growing) list of resources for this project.</p>
+<p>This is the repository for team DAND's (I am open to any alternate suggestions for a name - Fine and DANDy?, DANDy Lions?) entry in the Kaggle Competiton[Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition). The team is composed of graduates of Udacity's Data Analyst Nanodegree. The purpose of this competition is to build an algorithm that can identify specific whales from overhead photographs. See the [Resources.md](Resources.md) file above for a (growing) list of resources for this project.</p>
 
 The problem consists of two separate tasks - whale recognition (finding a whale in a larger picture) and whale identification (identifying a specific whale based on its picure). We may also wish to explore the possibility that it is not necessary to perform whale recognition.<br>
 
