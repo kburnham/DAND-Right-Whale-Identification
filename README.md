@@ -41,7 +41,7 @@ If you are interested in participating you should:
 
  <h2>Moving Forward</h2>
 
-There are three main tasks before us to accomplish our goal, described below. All of this is, of course, subject to change based on future developments. If anyone has a better idea for how to approach these problems, please do speak up.
+There are three main tasks before us to accomplish our goal, described below. All of this is, of course, subject to change based on future developments. If anyone has a better idea for how to approach these problems, please do speak up. I think we should start by trying to build a functional model on a small subset of data (20 pictures of 2 whales) and then trying to scale up from there. Image files and a dataset for this are in the [data_subset](data_subset).
 
 1. Obtain a set of training images for our whale recognizer. This is a fairly tedious task and involves cropping whale images out of the full image files for use by the `opencv_createsamples` utility. We also need negative images (those that do not contain whales) and background images to feed into the utility. We need to decide exactly how the cropping should be done (e.g. the entire visiable whale, or just the forehead?) and spend time experimenting with OpenCV to see how the image recognizer works. The whale images cropped at this stage can also be used to train the identifier in part 3. One of the other participants has designed a python program to help with this process. See [this post](https://www.kaggle.com/c/noaa-right-whale-recognition/forums/t/16275/python-script-to-sort-images/91584#post91584).
 

@@ -10,6 +10,9 @@
 <h5>General</h5>
 	<li>[Wikipedia article on CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) - see also the references at the bottom
 	<li>[Description and basic implementation with Theano](http://deeplearning.net/tutorial/lenet.html)
+	<li>[Good description of CNNs](http://cs231n.github.io/convolutional-networks/)
+	<li>[Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
 <h5>Case Studies</h5>
      <li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
      <li>[Classifying Plankton With Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html) - [	notes](Notes/Notes from Plankton winners.md)
