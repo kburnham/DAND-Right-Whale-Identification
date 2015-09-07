@@ -8,30 +8,30 @@
 
 <h4>Convolutional Neural Networks/Image Recognition</h4>
 <h5>General</h5>
-	<li>[Wikipedia article on CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) - see also the references at the bottom
-	<li>[Description and basic implementation with Theano](http://deeplearning.net/tutorial/lenet.html)
-	<li>[Good description of CNNs](http://cs231n.github.io/convolutional-networks/)
-	<li>[Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+<li>[Wikipedia article on CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) - see also the references at the bottom
+<li>[Description and basic implementation with Theano](http://deeplearning.net/tutorial/lenet.html)
+<li>[Good description of CNNs](http://cs231n.github.io/convolutional-networks/)
+<li>[Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
 <h5>Case Studies</h5>
-    <li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
-    <li>[Classifying Plankton With Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html) - [	notes](Notes/Notes from Plankton winners.md)
-    <li>[My Solution for the Galaxy Zoo Competition](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
+<li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
+<li>[Classifying Plankton With Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html) - [	notes](Notes/Notes from Plankton winners.md)
+<li>[My Solution for the Galaxy Zoo Competition](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 
 <h5>Academic Papers</h5>
-	<li>[Delving Deep Into Rectifiers](BackgroundInfo/Delving Deep into rectifiers.pdf)
-	<li>[Distilling the Knowledge in a Neural Network](BackgroundInfo/Distilling the Knowledge in a Neural Network.pdf)
-	<li>[ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
-	<li>[Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/pdf/1503.07077v1.pdf) - from Galaxy Zoo challenge
-	<li>[Rapid Object Detection using a Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
-	<li>[An Extended Set of Haar-like Features for Rapid Object Detection](http://www.lienhart.de/Prof._Dr._Rainer_Lienhart/Source_Code_files/ICIP2002.pdf)
-	<li>[Learning Multi-scale Block Local Binary Patterns for Face Recognition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwiugbjh_N3HAhVFEJIKHXnsDi0&url=http%3A%2F%2Fwww.cbsr.ia.ac.cn%2Fusers%2Flzhang%2Fpapers%2FICB07%2FICB07_Liao.pdf&usg=AFQjCNGT1oe12V2Cf8fJ-Kf5r_iKkkp-0Q&sig2=sb4D6J4JgR7bwuni-pN-dw)
+<li>[Delving Deep Into Rectifiers](BackgroundInfo/Delving Deep into rectifiers.pdf)
+<li>[Distilling the Knowledge in a Neural Network](BackgroundInfo/Distilling the Knowledge in a Neural Network.pdf)
+<li>[ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+<li>[Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/pdf/1503.07077v1.pdf) - from Galaxy Zoo challenge
+<li>[Rapid Object Detection using a Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+<li>[An Extended Set of Haar-like Features for Rapid Object Detection](http://www.lienhart.de/Prof._Dr._Rainer_Lienhart/Source_Code_files/ICIP2002.pdf)
+<li>[Learning Multi-scale Block Local Binary Patterns for Face Recognition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwiugbjh_N3HAhVFEJIKHXnsDi0&url=http%3A%2F%2Fwww.cbsr.ia.ac.cn%2Fusers%2Flzhang%2Fpapers%2FICB07%2FICB07_Liao.pdf&usg=AFQjCNGT1oe12V2Cf8fJ-Kf5r_iKkkp-0Q&sig2=sb4D6J4JgR7bwuni-pN-dw)
 
 
 
 <h4>Software</h4>
 <h5>Tools</h5>
- <li>[Theano](http://deeplearning.net/software/theano/) - used by previous image processing winners - makes certain computations faster by using GPU. See link for download and tutorials.
+<li>[Theano](http://deeplearning.net/software/theano/) - used by previous image processing winners - makes certain computations faster by using GPU. See link for download and tutorials.
  	 - [short talk on Theano](https://archive.org/details/Scipy2010-JamesBergstra-TransparentGpuComputingWithTheano)
  <li>~~[MathWorks](http://www.mathworks.com/academia/student-competitions/kaggle/?refresh=true) - free copy of MatLab for use in the competiton (I think the license is for 1 year). There is a [tutorial](https://www.kaggle.com/c/noaa-right-whale-recognition/details/creating-a-face-detector-for-whales) for the competition that uses this software. Contact me for a license key.~~
  <li>~~[Label Images for Classification Model Training](http://www.mathworks.com/help/vision/ug/label-images-for-classification-model-training.html) - instructions for labeling images for training an object classifier with MatLab. See also [here](http://www.mathworks.com/help/vision/ug/train-a-cascade-object-detector.html) which talks about how MatLab's ObjectDetector works and how to give it good data for training.~~
