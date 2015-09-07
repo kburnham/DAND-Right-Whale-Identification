@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-This is the repository for team DAND's (I am open to any alternate suggestions for a name - Fine and DANDy?, DANDy Lions?) entry in the Kaggle Competiton [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition). The team is composed of graduates of Udacity's Data Analyst Nanodegree. The purpose of this competition is to build an algorithm that can identify specific whales from overhead photographs. See the [Resources.md](Resources.md) file above for a (growing) list of resources for this project.
+This is the repository for team DAND's (I am open to any alternate suggestions for a name - Fine and DANDy?, DANDy Lions?) entry in the Kaggle Competiton [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition). The team is composed of graduates of Udacity's Data Analyst Nanodegree. The purpose of this competition is to build an algorithm that can identify specific whales from overhead photographs. See the [resources.md](resources.md) file above for a (growing) list of resources for this project.
 
 The problem consists of two separate tasks - whale recognition (finding a whale in a larger picture) and whale identification (identifying a specific whale based on its picure). We may also wish to explore the possibility that it is not necessary to perform whale recognition.<br>
 
@@ -26,7 +26,7 @@ I am also open to any other suggestions as to how we might approach the task.<br
 
 <h2>Right Whales</h2> 
 
-Check out this [website](http://www.neaq.org/conservation_and_research/projects/endangered_species_habitats/right_whale_research/right_whale_projects/monitoring_individuals_and_family_trees/identifying_with_photographs/how_it_works/callosity_patterns.php) which gives information about how scientists identify individual right whales. It is primarily based on the pattern of white callosity on the nose of the whale, but be sure to click the link at the bottom for other features used. Check out the [Resources.md](Resources.md) file for more links to information about whale identification.
+Check out this [website](http://www.neaq.org/conservation_and_research/projects/endangered_species_habitats/right_whale_research/right_whale_projects/monitoring_individuals_and_family_trees/identifying_with_photographs/how_it_works/callosity_patterns.php) which gives information about how scientists identify individual right whales. It is primarily based on the pattern of white callosity on the nose of the whale, but be sure to click the link at the bottom for other features used. Check out the [resources.md](resources.md) file for more links to information about whale identification.
 
 <h2>Now . . .</h2>
 

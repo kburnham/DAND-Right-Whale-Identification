@@ -14,9 +14,9 @@
 	<li>[Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
 <h5>Case Studies</h5>
-     <li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
-     <li>[Classifying Plankton With Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html) - [	notes](Notes/Notes from Plankton winners.md)
-     <li>[My Solution for the Galaxy Zoo Competition](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
+    <li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
+    <li>[Classifying Plankton With Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html) - [	notes](Notes/Notes from Plankton winners.md)
+    <li>[My Solution for the Galaxy Zoo Competition](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 
 <h5>Academic Papers</h5>
 	<li>[Delving Deep Into Rectifiers](BackgroundInfo/Delving Deep into rectifiers.pdf)
