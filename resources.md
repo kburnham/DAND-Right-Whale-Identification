@@ -26,6 +26,8 @@
 <li>[Rapid Object Detection using a Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 <li>[An Extended Set of Haar-like Features for Rapid Object Detection](http://www.lienhart.de/Prof._Dr._Rainer_Lienhart/Source_Code_files/ICIP2002.pdf)
 <li>[Learning Multi-scale Block Local Binary Patterns for Face Recognition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwiugbjh_N3HAhVFEJIKHXnsDi0&url=http%3A%2F%2Fwww.cbsr.ia.ac.cn%2Fusers%2Flzhang%2Fpapers%2FICB07%2FICB07_Liao.pdf&usg=AFQjCNGT1oe12V2Cf8fJ-Kf5r_iKkkp-0Q&sig2=sb4D6J4JgR7bwuni-pN-dw)
+<li>[Multiresolution Gray Scale and Rotation Invariant Texture Classification with Local Binary Patterns](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/lbp.pdf)
+<li>[Histograms of Oriented Gradients for Human Detection](https://hal.inria.fr/inria-00548512/document)
 
 
 
