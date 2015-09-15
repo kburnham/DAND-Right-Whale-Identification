@@ -45,6 +45,7 @@
  <li>[Python script for sorting images by whale](https://www.kaggle.com/c/noaa-right-whale-recognition/forums/t/16275/python-script-to-sort-images/91274#post91274)
  <li>[Train Your Own OpenCV Haar Classifier](https://github.com/mrnugget/opencv-haar-classifier-training) - this repository appears to contain everything we might need to train our own whale classifier, we just need to make some positive and negative images to feed into it.
  <li>[How to do OpenCV Haar training](http://www.technolabsz.com/2011/08/how-to-do-opencv-haar-training.html)
+ <li>[Analysis and optimization of parameters used in training a cascade classifier](http://scholarpublishing.org/index.php/AIVP/article/view/1152)
 
 <h4>Miscellany</h4>
 
