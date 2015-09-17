@@ -1,10 +1,10 @@
-Using (a free) Amazon Web Services EC2 instance to train a whale classifier with OpenCV
+<h2>Using (a free) Amazon Web Services EC2 instance to train a whale classifier with OpenCV</h2>
 
-In what follows, I will attempt to explain the process involved in using the computer vision library OpenCV to train a whale classifier. A classifier is an algorithm that scans an image and identifies the subregion (or subreginos) that contain specific objects (traditionally faces, but in our case right whales).
+In what follows, I will attempt to explain the process involved in using the computer vision library OpenCV to train a whale classifier. A classifier is an algorithm that scans an image and identifies the subregion (or subregions) that contain specific objects (traditionally faces, but in our case right whales).
 
 Building the classifier involves the following steps:
 1. Sign up for an Amazon Web Services account and create a linux instance that you can ssh to from your local machine. (this is free)
-2. Install OpenCV (and its many depencies) on the remote instance
+2. Install OpenCV (and its many dependencies) on the remote instance
 3. Run the `opencv_createsamples` and `opencv_traincascade` utilities to create a cascade.xml file that can be used to find whale new images.
 4. ~~Use your new `cascade.xml` to test and validate the trainer.~~ Coming Soon!
 
@@ -134,14 +134,14 @@ Given lots of samples and many training stages (as good classifiers need) means 
 
 This will place all terminal output into a file called nohup.out (including error messages, so be sure to check it right away with <kbd>nano nohup.out</kbd>). You should be able to sign out (but do not stop the instance until it is done) and come back later. If you check the nohup.out file and it ends with END, I think that means its finished. I have not actually tried to sign out and come back though, so I am not sure exactly how it works. 
 
-We want to make sure that we capture the output and the cascade.xml file of every classifier that we train so that we can try to figure out what the best parameter settings are. We also might benefit from making an ensemble of whale classifiers. It is good to keep in my that our whale finding task is usefully constrained by the fact that every image we process contains exactly one whale (actually at least some of the photos have multiple whales, but each image is identified with exactly one whale). However, I believe that the nature of the cascade classifier is such that there is no ranking or confidence measure for a hit. So if it returns 3 areas that it thinks contain whales, there is no way for us to choose the best one. I thought then that we might train a bunch of classifiers each of which 'votes' for areas of the image that it thinks has a whale. This in effect would generate a heat map on the image and we could then take the 'hottest' area as our whale. The trick is to have classifiers that are different enough from one another to base their conclusions on different data. So in addition to changing the parameters of `opencv_createsamples` and `opencv_traincascade` we can experiment with different input data (different sets of positive and negative images, different image preprocessing steps, different window sizes, etc.).
+We want to make sure that we capture the output and the cascade.xml file of every classifier that we train so that we can try to figure out what the best parameter settings are and so we do not waste time training classifiers with the same input data and parameter settings. We also might benefit from making an ensemble of whale classifiers. It is good to keep in my that our whale finding task is usefully constrained by the fact that every image we process contains exactly one whale (actually at least some of the photos have multiple whales, but each image is identified with exactly one whale). However, I believe that the nature of the cascade classifier is such that there is no ranking or confidence measure for a hit. So if it returns 3 areas that it thinks contain whales, there is no way for us to choose the best one. I thought then that we might train a bunch of classifiers each of which 'votes' for areas of the image that it thinks has a whale. This in effect would generate a heat map on the image and we could then take the 'hottest' area as our whale. The trick is to have classifiers that are different enough from one another to base their conclusions on different data. So in addition to changing the parameters of `opencv_createsamples` and `opencv_traincascade` we can experiment with different input data (different sets of positive and negative images, different image preprocessing steps, different window sizes, etc.).
 
 
-You probably have some or all of the following questions:
+There are still have many unanswered questions about training, including:
 
 How many positives do we need? What is the best way to do the image annotations? What kind of image preprocessing should we use? How many negatives do I need? What should they consist of? What are the parameters of opencv_traincascade and how do they influence the performance of the model and the length of training time?
 
-These are all questions that we need to answer in order to build the best possible whale classifier. There are some links on [resources.md] on our repo that might help get us started in answering these questions. 
+These are all questions that we need to answer in order to build the best possible whale classifier. There are some links on [resources.md](resources.md) on our repo that might help get us started in answering these questions. 
 
 
 
