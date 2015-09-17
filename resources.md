@@ -48,6 +48,9 @@
  <li>[Train Your Own OpenCV Haar Classifier](https://github.com/mrnugget/opencv-haar-classifier-training) - this repository appears to contain everything we might need to train our own whale classifier, we just need to make some positive and negative images to feed into it.
  <li>[How to do OpenCV Haar training](http://www.technolabsz.com/2011/08/how-to-do-opencv-haar-training.html)
  <li>[Analysis and optimization of parameters used in training a cascade classifier](http://scholarpublishing.org/index.php/AIVP/article/view/1152)
+ <li>[Training Haar cascade in the cloud](http://computer-vision-talks.com/articles/cloud-haartaining/) - tutorial on using DigitalOcean to train a classifier in the cloud
+ <li>[Cascade Classifier Q/A](http://answers.opencv.org/question/7141/about-traincascade-paremeters-samples-and-other/) - good post from OpenCV Q&A about parameter tuning in a cascade classifier
+ <li>[More advice on haar cascade parameter settings](http://answers.opencv.org/question/39160/opencv_traincascade-parameters-explanation-image-sizes-etc/)
 
 <h4>Miscellany</h4>
 
