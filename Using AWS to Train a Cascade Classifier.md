@@ -3,6 +3,7 @@
 In what follows, I will attempt to explain the process involved in using the computer vision library OpenCV to train a whale classifier. A classifier is an algorithm that scans an image and identifies the subregion (or subregions) that contain specific objects (traditionally faces, but in our case right whales).
 
 Building the classifier involves the following steps:
+
 1. Sign up for an Amazon Web Services account and create a linux instance that you can ssh to from your local machine. (this is free)<br>
 2. Install OpenCV (and its many dependencies) on the remote instance.<br>
 3. Run the `opencv_createsamples` and `opencv_traincascade` utilities to create a cascade.xml file that can be used to find whale new images.<br>
