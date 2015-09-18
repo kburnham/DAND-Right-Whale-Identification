@@ -55,7 +55,7 @@ Now we need `gcc-c++` so we can compile cmake as follows:
 
 <kbd>sudo yum install gcc-c++</kbd>
 
-And now from inside the `cmake-3.1.1` directory, run bootstrap. Because we are on a remote machine we will run into permission errors with out specificying a prefix:
+And now from inside the `cmake-3.1.1` directory, run bootstrap. Because we are on a remote machine we will run into permission errors if we don't pecificy a prefix:
 
 <kbd>./bootstrap --prefix=$HOME</kbd>
 
@@ -63,7 +63,7 @@ When it's done you will get the message 'CMake has bootstrapped.  Now run gmake.
 
 <kbd>gmake</kbd>
 
-When that finishes, you are finally ready to install OpenCV. Go into the `opencv` folder you cloned and create and open a folder called `release`:
+When that finishes, you are finally ready to install OpenCV. Go into the `opencv` folder you cloned and create and enter a folder called `release`:
 
 <kbd>mkdir release</kbd><br>
 <kbd>cd release</kbd>
@@ -91,7 +91,7 @@ For instructions on moving files between local and remote machines using `scp` s
 
 Within the `whaleclassifier` folder, create a folder called `positives` and one called `negatives` (or scp entire folders with image files from your local machine).
 
-Into the positives folder you need to upload the full images of images that you (or someone else has annotated to indicate the position of the whale).
+Into the positives folder you need to upload the full images of images that you (or someone else) has annotated to indicate the position of the whale.
 
 You can get the image files from the [competition website](https://www.kaggle.com/c/noaa-right-whale-recognition/data). You can get annotations from [this github repository](https://github.com/Smerity/right_whale_hunt). Or you can just use the file from [our github site](https://github.com/kburnham/DAND-Right-Whale-Identification). If you use this file, you need to make sure you upload all of the corresponding images. 
 
@@ -184,16 +184,16 @@ im = Image.open(imagefile)
 # draw the rectangles
 dr = ImageDraw.Draw(im)
 for (x,y,w,h) in whales:
-        #we want our box outlines to be wider than a single pixel, so we use this loop
-        for i in range(4):
-            dr.rectangle(((x+i, y+i), (x+w+i, y+h+i)), outline = "red")
+    #we want our box outlines to be wider than a single pixel, so we use this loop
+    outline_width = 4
+    for i in range(outline_width):
+        dr.rectangle(((x-i, y-i), (x+w+i, y+h+i)), outline = "red")
 
 
 #this command should open the image in your default viewer
 im.show()
 
 # and/or you can save it
-
 im.save(outimage_name.jpg)
 
 ```
@@ -205,8 +205,10 @@ So if you made it this far you have managed to open an AWS account, create an in
 
 If you followed the same exact steps as me, you will also be aware that the classifier we trained does a horrible job locating whales. Which means that we have a lot to do. There are a number of ways that we might improve the performance of the model. I think the most important thing is for us to create a lot more annotations of whale images to feed into our trainer after we decide what the best way to do the annotations is. Check the resources.md file for some ideas on how to make a better trainer.
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 
