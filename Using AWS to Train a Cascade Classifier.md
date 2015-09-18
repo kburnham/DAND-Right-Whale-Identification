@@ -144,6 +144,67 @@ How many positives do we need? What is the best way to do the image annotations?
 These are all questions that we need to answer in order to build the best possible whale classifier. There are some links on [resources.md](resources.md) on our repo that might help get us started in answering these questions. 
 
 
+<h4>Using your classifier to find whales in new images</h4>
+
+Now that you have your cascade.xml file you can use it with OpenCV's `detectMultiScale` to look for whales in previously unseen images. Since we can do this in Python, we will. 
+
+First you will need to have OpenCV on your local system. You can build it from source as above, or try installing some other way (see [here](http://opencv.org/downloads.html)).
+
+You can run the code here to try out your classifier on a single image:
+
+```python
+import numpy as np
+import cv2
+from PIL import Image, ImageDraw
+
+# get your classifier
+whale_cascade = cv2.CascadeClassifier('cascade.xml')
+
+#load an image and apply the classifier to it
+
+img = cv2.imread('PATH_TO_IMAGE.jpg')
+#make a grayscale verion of it
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+# we use detectMultiScale to find and return a list of lists in the form [x,y,width,height] where it finds whales
+#see the docs for parameter descriptions (http://docs.opencv.org/modules/objdetect/doc/cascade_classification.html)
+# below we have (image, scaleFactor, minNeighbors, flags, (min_size))
+# increasing minNeighbors will decrease your hits
+
+whales = classifier.detectMultiScale(gray, 1.3, 5, 0, (300, 300))
+
+# now we use PIL and the supplied coordinates and dimensions to draw boxes around the whales we found
+
+#you should be able to do this with OpenCV too, but I couldn't get it to work (http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection)
+
+
+imagefile = PATH_TO_IMAGE.jpg
+im = Image.open(imagefile)
+
+# draw the rectangles
+dr = ImageDraw.Draw(im)
+for (x,y,w,h) in whales:
+        #we want our box outlines to be wider than a single pixel, so we use this loop
+        for i in range(4):
+            dr.rectangle(((x+i, y+i), (x+w+i, y+h+i)), outline = "red")
+
+
+#this command should open the image in your default viewer
+im.show()
+
+# and/or you can save it
+
+im.save(outimage_name.jpg)
+
+```
+At present, the only way we have to validate the model is to apply it to some images outside the training set and eyeball it. If we had a lot more annotations we could train with a subset and validate with another group.
+
+<h4>Conclusion</h4>
+
+So if you made it this far you have managed to open an AWS account, create an instance on it, install OpenCV on it, train a cascade classifier and apply your trained classifier to new data. Nice work!
+
+If you followed the same exact steps as me, you will also be aware that the classifier we trained does a horrible job locating whales. Which means that we have a lot to do. There are a number of ways that we might improve the performance of the model. I think the most important thing is for us to create a lot more annotations of whale images to feed into our trainer after we decide what the best way to do the annotations is. Check the resources.md file for some ideas on how to make a better trainer.
+
 
 
 
