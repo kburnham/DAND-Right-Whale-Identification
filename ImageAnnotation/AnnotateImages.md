@@ -15,7 +15,7 @@ These are the steps to annotating a batch of images:
 
 Sloth should be simple to install. You need to clone the [github repo](https://github.com/cvhciKIT/sloth) and then install it. You can find installation instructions [here](http://sloth.readthedocs.org/en/latest/), but if you have Python, [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download) and [PIL](http://www.pythonware.com/products/pil/) or okapy, and are signed in with administrator privileges, this should work:
 
-<kbd>git clone https://github.com/cvhciKIT/sloth</kbd>
+<kbd>git clone https://github.com/cvhciKIT/sloth</kbd><br>
 <kbd>python setup.py install</kbd>
 
 You should play around with Sloth a little bit to get an idea how it works. See [here](http://sloth.readthedocs.org/en/latest/first_steps.html) for a brief intro to how it works. Basically, it allows you to annotate an image (or images) and output an xml file that describes that image. We will use it to identify whale heads in our images, and also areas of images without whales.
@@ -33,9 +33,9 @@ Use the `AnnotateImages.ipynb` file in this directory to generate a temporary fo
 
 From within the `ImageAnnotation` folder on the github repo, these commands should launch sloth with your new batch of files to annotate.  
 
-<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/new_file_name.json</kbd>
-<kbd>ln -s annotations/new_file_name.json .</kbd>
-<kbd>sloth --config sloth_configuration.py annotations/new_file_name.json</kbd>
+<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/new_file_name.json</kbd><br>
+<kbd>ln -s annotations/new_file_name.json .</kbd><br>
+<kbd>sloth --config sloth_configuration.py annotations/new_file_name.json</kbd><br>
 
 Please keep the following in mind when annotation images:
 
