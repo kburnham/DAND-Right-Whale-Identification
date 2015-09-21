@@ -28,7 +28,7 @@ If you are in a linux terminal, you should be able to connect to the command lin
 
 You should get a message saying 'The authenticity of host your_public_dns_name' . . . can't be established'. 
 
-Type 'yes' to continue. You will be promted to make update with `sudo yum install`. Do this.
+Type 'yes' to continue. You will be promted to update with `sudo yum install`. Do this.
 
 <h4>Install OpenCV</h4>
 
@@ -80,15 +80,15 @@ When that is done use these two commands (make sure you are in the `release` fol
 
 <h4>Run the `opencv_createsamples` and `opencv_traincascade` utilities</h4>
 
-When the intallation is complete you should find the `opencv_createsamples` and `opencv_traincascade` utitilies in the `opencv/release/bin` folder. Unfortunately we can't use them until we upload the files that it needs for training. To train the classifier, we need to provide it with:
+When the installation is complete you should find the `opencv_createsamples` and `opencv_traincascade` utitilies in the `opencv/release/bin` folder. Unfortunately we can't use them until we upload the training files. To train the classifier, we need to provide it with:
 
 1. Images that contain whales and a file (we'll call it `data.info`) that provides the coordinates, width and height of the subregion containing the whale.
 2. Negative images (aka background images) that do not contain whales and a file (`bg.txt`) that lists the names and relative locations of the files.
-3. A .vec file created from positive images (we will create this file with the `opencv_createsamples` utility.)
+3. A .vec file created from positive images (we will create this file with the `opencv_createsamples` utility).
 
 Start by creating a new folder on your home level. Call it `whaleclassifier`. We will put all the files needed for training in this folder.
 
-For instructions on moving files between local and remote machines using `scp` see [here](http://www.computerhope.com/unix/scp.htm). If you are using an instance from AWS, you need to be sure to include `-i /you/keypair.pem` in your scp commands.
+For instructions on moving files between local and remote machines using `scp` see [here](http://www.computerhope.com/unix/scp.htm). If you are using an instance from AWS, you need to be sure to include `-i /your/keypair.pem` in your scp commands.
 
 Within the `whaleclassifier` folder, create a folder called `positives` and one called `negatives` (or scp entire folders with image files from your local machine).
 
