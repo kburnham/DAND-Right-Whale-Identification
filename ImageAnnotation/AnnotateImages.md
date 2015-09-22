@@ -33,11 +33,11 @@ Use the `AnnotateImages.ipynb` file in this directory to generate a temporary fo
 
 <h4>3. Annotate the files with sloth</h4>
 
-From within the `ImageAnnotation` folder on the github repo, these commands should launch sloth with your new batch of files to annotate.  
+From within the `ImageAnnotation` folder on the github repo, these commands should launch sloth with your new batch of files to annotate. Be sure to substitute ######.json with a filename of your choice.
 
-<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/new_file_name.json</kbd><br>
-<kbd>ln -s annotations/new_file_name.json .</kbd><br>
-<kbd>sloth --config sloth_configuration.py annotations/new_file_name.json</kbd><br>
+<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/######.json</kbd><br>
+<kbd>ln -s annotations/######.json .</kbd><br>
+<kbd>sloth --config sloth_configuration.py annotations/######.json</kbd><br>
 
 Please keep the following in mind when annotation images:
 
