@@ -52,6 +52,8 @@
  <li>[Cascade Classifier Q/A](http://answers.opencv.org/question/7141/about-traincascade-paremeters-samples-and-other/) - good post from OpenCV Q&A about parameter tuning in a cascade classifier
  <li>[More advice on haar cascade parameter settings](http://answers.opencv.org/question/39160/opencv_traincascade-parameters-explanation-image-sizes-etc/)
  <li>[Using AWS to train a whale classifier](https://github.com/kburnham/DAND-Right-Whale-Identification/blob/master/Using%20AWS%20to%20Train%20a%20Cascade%20Classifier.md) - I wrote this one, but I haven't tested it myself yet, so let me know if you run into any problems.
+ <li>[Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+ <li>[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - free online book
 
 <h4>Miscellany</h4>
 
