@@ -12,6 +12,7 @@
 <li>[Description and basic implementation with Theano](http://deeplearning.net/tutorial/lenet.html)
 <li>[Good description of CNNs](http://cs231n.github.io/convolutional-networks/)
 <li>[Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+<li>[Great explanation of CNNs](http://cs231n.github.io/convolutional-networks/)
 
 <h5>Case Studies</h5>
 <li>[Detecting Diabetic Retinopathy in Eye Images](http://blog.kaggle.com/2015/08/10/detecting-diabetic-retinopathy-in-eye-images/)
@@ -54,6 +55,7 @@
  <li>[Using AWS to train a whale classifier](https://github.com/kburnham/DAND-Right-Whale-Identification/blob/master/Using%20AWS%20to%20Train%20a%20Cascade%20Classifier.md) - I wrote this one, but I haven't tested it myself yet, so let me know if you run into any problems.
  <li>[Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
  <li>[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - free online book
+ <li>[libccv](http://libccv.org/doc/doc-convnet/) - CNN library 
 
 <h4>Miscellany</h4>
 
