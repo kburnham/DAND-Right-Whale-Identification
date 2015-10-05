@@ -25,25 +25,28 @@ When you are confortable annotation images with Sloth, go on to step 2.
 
 <h4>2. Get a list of files to annotate.</h4>
 
+**Make sure that your repo is up to date with master before you do this.**
+
 To make sure that we don't duplicate effort, you first want to generate a list of files to annotate that have not already been annotated. 
 
 Use the `AnnotateImages.ipynb` file in this directory to generate a temporary folder of images that can be imported into sloth for annotation.
 
 <h4>3. Annotate the files with sloth</h4>
 
-From within the `ImageAnnotation` folder on the github repo, these commands should launch sloth with your new batch of files to annotate.  
+From within the `ImageAnnotation` folder on the github repo, these commands should launch sloth with your new batch of files to annotate. Be sure to substitute ######.json with a filename of your choice.
 
-<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/new_file_name.json</kbd><br>
-<kbd>ln -s annotations/new_file_name.json .</kbd><br>
-<kbd>sloth --config sloth_configuration.py annotations/new_file_name.json</kbd><br>
+<kbd>find ../../files_for_annotation/* -iname "*.jpg"| xargs sloth appendfiles annotations/######.json</kbd><br>
+<kbd>ln -s annotations/######.json .</kbd><br>
+<kbd>sloth --config sloth_configuration.py annotations/######.json</kbd><br>
 
-Please keep the following in mind when annotation images:
+Please keep the following in mind when annotating images:
 
  - for all images you should make a square around the head of the whale using the 'head' tag. The square should include the full head and, when possible, the blowhole. I can't find a way for force a square, but do your best to make the aspect ratio 1:1.
- - you should also try to tag some negative areas with the 'neg; tag. These should either be background - like the water - or areas that might be confused for whales - wave patterns, foam, spray etc. You do not necesarrily need to identify negatives on all images.
+ - you should also try to tag some negative areas with the 'neg' tag. These should either be background - like the water - or areas that might be confused for whales - wave patterns, foam, spray etc. You do not necesarrily need to identify negatives on all images.
  - Be sure that you are labelling heads 'head' and negatives 'neg'. It's tricky because the boxes are the same color. Press `esc` to get out of the editor and click on a box to see its tag. Also, please be sure to proofread your annotations (see below).
  - pressing `ctrl-F` should center the image on the sloth palette.
  - the space bar will load the next image
+ - click on the disk image in the top left corner to save your annotations to the json file
 
 Check out some sample annotations [here](sample_annotations/sample_annotations.md). Note that when you view them in sloth, all the boxes will be yellow.
 
@@ -66,6 +69,11 @@ Use the `check_annotations` function in `AnnotateImages.ipynb` to create a group
 When you are confident your annotations are clean, submit a pull request so they can be merged.
 
 <h4>6. Wasn't that fun? Now you can repeat steps 2-6 to annotate another batch.</h4>
+
+
+
+
+
 
 
 
