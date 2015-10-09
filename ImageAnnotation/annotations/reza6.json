@@ -1,0 +1,1402 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 429.65430695896964,
+                "type": "rect",
+                "width": 446.17947261123777,
+                "x": 1416.4427701944055,
+                "y": 736.5502405010908
+            }
+        ],
+        "class": "image",
+        "filename": "w_1046.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 482.65287394374377,
+                "type": "rect",
+                "width": 525.9252005731829,
+                "x": 659.070820971457,
+                "y": 1324.7989229628279
+            }
+        ],
+        "class": "image",
+        "filename": "w_1054.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 549.2256841428807,
+                "type": "rect",
+                "width": 619.1271348519747,
+                "x": 2040.4566326035513,
+                "y": 958.6484668675739
+            }
+        ],
+        "class": "image",
+        "filename": "w_1067.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 642.4276184216728,
+                "type": "rect",
+                "width": 679.042664031198,
+                "x": 2206.888658101394,
+                "y": 1374.7285306121805
+            }
+        ],
+        "class": "image",
+        "filename": "w_1068.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 625.7844158718885,
+                "type": "rect",
+                "width": 692.3572260710257,
+                "x": 1101.7800087957185,
+                "y": 1311.4843609230004
+            }
+        ],
+        "class": "image",
+        "filename": "w_1106.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 320.08410000000026,
+                "type": "rect",
+                "width": 337.9770000000001,
+                "x": 1363.836600000001,
+                "y": 844.9425000000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_1381.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 363.82230000000015,
+                "type": "rect",
+                "width": 387.6795000000002,
+                "x": 1043.7525000000007,
+                "y": 763.4304000000005
+            }
+        ],
+        "class": "image",
+        "filename": "w_1426.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 312.13170000000025,
+                "type": "rect",
+                "width": 334.00080000000025,
+                "x": 1332.027000000001,
+                "y": 715.7160000000005
+            }
+        ],
+        "class": "image",
+        "filename": "w_1466.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 532.8108000000003,
+                "type": "rect",
+                "width": 592.4538000000003,
+                "x": 729.6327000000005,
+                "y": 703.7874000000005
+            }
+        ],
+        "class": "image",
+        "filename": "w_1525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 278.3340000000003,
+                "type": "rect",
+                "width": 296.2269000000001,
+                "x": 1455.289200000001,
+                "y": 1135.2051000000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_1586.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 467.2035000000003,
+                "type": "rect",
+                "width": 477.14400000000023,
+                "x": 1314.134100000001,
+                "y": 753.4899000000005
+            }
+        ],
+        "class": "image",
+        "filename": "w_1608.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 359.8461000000002,
+                "type": "rect",
+                "width": 389.6676000000002,
+                "x": 1292.2650000000008,
+                "y": 632.2158000000004
+            }
+        ],
+        "class": "image",
+        "filename": "w_1707.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 347.91750000000013,
+                "type": "rect",
+                "width": 387.6795000000004,
+                "x": 1377.7533000000012,
+                "y": 896.6331000000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_1815.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 966.8369225220679,
+                "type": "rect",
+                "width": 976.2236887601462,
+                "x": 1600.4436435923553,
+                "y": 1656.7642410208252
+            }
+        ],
+        "class": "image",
+        "filename": "w_182.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 417.85061720734996,
+                "type": "rect",
+                "width": 453.26168646221004,
+                "x": 1203.9763546652457,
+                "y": 828.6190205637276
+            }
+        ],
+        "class": "image",
+        "filename": "w_18.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 318.6996232937415,
+                "type": "rect",
+                "width": 347.0284786976297,
+                "x": 1534.4796677106067,
+                "y": 769.6005718056274
+            }
+        ],
+        "class": "image",
+        "filename": "w_2187.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 306.8959335421214,
+                "type": "rect",
+                "width": 356.47143049892543,
+                "x": 1317.2917762807979,
+                "y": 472.1475900648021
+            }
+        ],
+        "class": "image",
+        "filename": "w_2323.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 952.7567731649503,
+                "type": "rect",
+                "width": 1051.317818664773,
+                "x": 154.88164292829245,
+                "y": 1060.7045849028514
+            }
+        ],
+        "class": "image",
+        "filename": "w_2347.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 294.2388000000003,
+                "type": "rect",
+                "width": 326.04840000000036,
+                "x": 1226.6577000000011,
+                "y": 920.4903000000008
+            }
+        ],
+        "class": "image",
+        "filename": "w_2469.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 330.0246000000003,
+                "type": "rect",
+                "width": 351.8937000000003,
+                "x": 1373.7771000000012,
+                "y": 668.0016000000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_2488.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 290.26260000000013,
+                "type": "rect",
+                "width": 326.04840000000036,
+                "x": 1671.9921000000015,
+                "y": 880.7283000000008
+            }
+        ],
+        "class": "image",
+        "filename": "w_2621.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 429.4296000000004,
+                "type": "rect",
+                "width": 471.17970000000037,
+                "x": 1145.145600000001,
+                "y": 992.0619000000008
+            }
+        ],
+        "class": "image",
+        "filename": "w_2629.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 397.62000000000035,
+                "type": "rect",
+                "width": 431.4177000000004,
+                "x": 1501.0155000000013,
+                "y": 856.8711000000008
+            }
+        ],
+        "class": "image",
+        "filename": "w_2664.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 216.70290000000023,
+                "type": "rect",
+                "width": 238.57200000000034,
+                "x": 1218.705300000001,
+                "y": 701.7993000000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_2715.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 560.6442000000004,
+                "type": "rect",
+                "width": 600.4062000000006,
+                "x": 1457.2773000000013,
+                "y": 827.0496000000007
+            }
+        ],
+        "class": "image",
+        "filename": "w_2753.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 598.4181000000005,
+                "type": "rect",
+                "width": 662.0373000000005,
+                "x": 773.3709000000007,
+                "y": 489.0726000000004
+            }
+        ],
+        "class": "image",
+        "filename": "w_2770.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 312.1317000000003,
+                "type": "rect",
+                "width": 339.96510000000035,
+                "x": 890.6688000000008,
+                "y": 473.16780000000034
+            }
+        ],
+        "class": "image",
+        "filename": "w_2797.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 549.4032837900004,
+                "type": "rect",
+                "width": 596.8337831100007,
+                "x": 1549.3963111200014,
+                "y": 1415.0098963800015
+            }
+        ],
+        "class": "image",
+        "filename": "w_2842.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 521.7354925200004,
+                "type": "rect",
+                "width": 569.1659918400005,
+                "x": 1181.809941390001,
+                "y": 972.3252360600009
+            }
+        ],
+        "class": "image",
+        "filename": "w_2944.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 262.86231078075866,
+                "type": "rect",
+                "width": 294.6736732319332,
+                "x": 974.4322603465068,
+                "y": 823.7468592619955
+            }
+        ],
+        "class": "image",
+        "filename": "w_2992.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 403.502018459636,
+                "type": "rect",
+                "width": 453.7304854878066,
+                "x": 1600.6138159643651,
+                "y": 932.5752044896981
+            }
+        ],
+        "class": "image",
+        "filename": "w_3232.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 485.54184793898105,
+                "type": "rect",
+                "width": 555.8617017784197,
+                "x": 1362.8657386976915,
+                "y": 807.0040369192719
+            }
+        ],
+        "class": "image",
+        "filename": "w_3296.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 396.80488952254655,
+                "type": "rect",
+                "width": 447.0333565507169,
+                "x": 897.4152775699788,
+                "y": 644.5986601948541
+            }
+        ],
+        "class": "image",
+        "filename": "w_3583.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 472.14759006480233,
+                "type": "rect",
+                "width": 503.958952515977,
+                "x": 1366.2143031662363,
+                "y": 865.6039151188041
+            }
+        ],
+        "class": "image",
+        "filename": "w_3673.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 301.3708021690228,
+                "type": "rect",
+                "width": 308.06793110611216,
+                "x": 1754.6477815174212,
+                "y": 755.1012876568292
+            }
+        ],
+        "class": "image",
+        "filename": "w_3777.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 131.80519716612105,
+                "type": "rect",
+                "width": 147.2418418792704,
+                "x": 1035.4426299897077,
+                "y": 127.05546033130588
+            }
+        ],
+        "class": "image",
+        "filename": "w_3880.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 835.422195188972,
+                "type": "rect",
+                "width": 910.5163250935987,
+                "x": 1351.6943382832803,
+                "y": 1074.7847342599694
+            }
+        ],
+        "class": "image",
+        "filename": "w_3901.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 488.1118443800734,
+                "type": "rect",
+                "width": 520.9655262133476,
+                "x": 1243.7465265453795,
+                "y": 933.9832406887944
+            }
+        ],
+        "class": "image",
+        "filename": "w_3996.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 478.725078141995,
+                "type": "rect",
+                "width": 516.2721430943084,
+                "x": 1365.7744876403979,
+                "y": 1187.4259291169094
+            }
+        ],
+        "class": "image",
+        "filename": "w_4074.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 535.0456755704652,
+                "type": "rect",
+                "width": 624.2199548322092,
+                "x": 1764.7120527587272,
+                "y": 990.3038381172644
+            }
+        ],
+        "class": "image",
+        "filename": "w_4280.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 600.7530392370136,
+                "type": "rect",
+                "width": 685.2339353797188,
+                "x": 1408.0149357117502,
+                "y": 915.2097082126377
+            }
+        ],
+        "class": "image",
+        "filename": "w_4361.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 400.86060300000054,
+                "type": "rect",
+                "width": 437.3024760000005,
+                "x": 1370.775069000002,
+                "y": 978.3241290000014
+            }
+        ],
+        "class": "image",
+        "filename": "w_4402.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 664.363377000001,
+                "type": "rect",
+                "width": 759.6728910000011,
+                "x": 798.9179850000012,
+                "y": 344.7961830000005
+            }
+        ],
+        "class": "image",
+        "filename": "w_4485.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 524.2023270000008,
+                "type": "rect",
+                "width": 560.6442000000009,
+                "x": 1538.9683290000023,
+                "y": 709.214913000001
+            }
+        ],
+        "class": "image",
+        "filename": "w_4529.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.81228800000054,
+                "type": "rect",
+                "width": 417.6799290000008,
+                "x": 1188.5657040000017,
+                "y": 941.8822560000015
+            }
+        ],
+        "class": "image",
+        "filename": "w_4618.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 566.2506420000009,
+                "type": "rect",
+                "width": 616.708620000001,
+                "x": 1766.0292300000026,
+                "y": 961.5048030000014
+            }
+        ],
+        "class": "image",
+        "filename": "w_461.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 532.6119900000009,
+                "type": "rect",
+                "width": 583.0699680000009,
+                "x": 1255.8430080000019,
+                "y": 681.182703000001
+            }
+        ],
+        "class": "image",
+        "filename": "w_471.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 333.5832990000006,
+                "type": "rect",
+                "width": 370.02517200000045,
+                "x": 1020.3724440000016,
+                "y": 874.6049520000013
+            }
+        ],
+        "class": "image",
+        "filename": "w_4757.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 451.3185810000006,
+                "type": "rect",
+                "width": 512.9894430000008,
+                "x": 1370.775069000002,
+                "y": 400.8606030000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_4810.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 269.6198813065055,
+                "type": "rect",
+                "width": 299.577645896117,
+                "x": 1837.4095614961848,
+                "y": 1772.7794297671774
+            }
+        ],
+        "class": "image",
+        "filename": "w_483.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 415.5129000000006,
+                "type": "rect",
+                "width": 457.26300000000083,
+                "x": 1308.1698000000026,
+                "y": 1033.8120000000022
+            }
+        ],
+        "class": "image",
+        "filename": "w_4906.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 566.2506420000011,
+                "type": "rect",
+                "width": 644.7408300000013,
+                "x": 1370.775069000003,
+                "y": 569.0538630000012
+            }
+        ],
+        "class": "image",
+        "filename": "w_4922.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 541.021653000001,
+                "type": "rect",
+                "width": 597.0860730000013,
+                "x": 1435.249152000003,
+                "y": 947.488698000002
+            }
+        ],
+        "class": "image",
+        "filename": "w_4973.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 341.9929620000006,
+                "type": "rect",
+                "width": 423.2863710000008,
+                "x": 1247.4333450000026,
+                "y": 765.2793330000017
+            }
+        ],
+        "class": "image",
+        "filename": "w_5091.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 434.49925500000097,
+                "type": "rect",
+                "width": 490.563675000001,
+                "x": 1325.9235330000029,
+                "y": 692.3955870000015
+            }
+        ],
+        "class": "image",
+        "filename": "w_5113.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 543.8248740000012,
+                "type": "rect",
+                "width": 627.9215040000014,
+                "x": 1011.9627810000021,
+                "y": 358.81228800000076
+            }
+        ],
+        "class": "image",
+        "filename": "w_5136.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 588.6764100000013,
+                "type": "rect",
+                "width": 672.7730400000014,
+                "x": 1412.823384000003,
+                "y": 669.9698190000014
+            }
+        ],
+        "class": "image",
+        "filename": "w_554.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 560.6442000000012,
+                "type": "rect",
+                "width": 633.5279460000015,
+                "x": 1157.7302730000024,
+                "y": 384.04127700000083
+            }
+        ],
+        "class": "image",
+        "filename": "w_5602.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 527.0055480000012,
+                "type": "rect",
+                "width": 583.0699680000014,
+                "x": 1118.4851790000023,
+                "y": 826.9501950000017
+            }
+        ],
+        "class": "image",
+        "filename": "w_5726.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 594.2828520000012,
+                "type": "rect",
+                "width": 672.7730400000014,
+                "x": 1068.0272010000022,
+                "y": 731.6406810000016
+            }
+        ],
+        "class": "image",
+        "filename": "w_6125.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 1117.0251823313229,
+                "type": "rect",
+                "width": 1206.199461593067,
+                "x": 896.4361757364817,
+                "y": 736.8611496891499
+            }
+        ],
+        "class": "image",
+        "filename": "w_6154.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 492.805227499113,
+                "type": "rect",
+                "width": 511.5787599752698,
+                "x": 1248.4399096644195,
+                "y": 802.5685133556983
+            }
+        ],
+        "class": "image",
+        "filename": "w_6169.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 291.5349840000006,
+                "type": "rect",
+                "width": 361.61550900000066,
+                "x": 1387.594395000003,
+                "y": 1039.9949910000023
+            }
+        ],
+        "class": "image",
+        "filename": "w_6188.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 530.3522924514264,
+                "type": "rect",
+                "width": 619.5265717131706,
+                "x": 2074.475338615314,
+                "y": 1051.3178186647744
+            }
+        ],
+        "class": "image",
+        "filename": "w_6365.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 413.01771447544706,
+                "type": "rect",
+                "width": 474.0316950229562,
+                "x": 1239.0531434263412,
+                "y": 854.1957276651292
+            }
+        ],
+        "class": "image",
+        "filename": "w_6449.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 459.95154566583875,
+                "type": "rect",
+                "width": 520.9655262133481,
+                "x": 1459.6421500211823,
+                "y": 506.8853768562305
+            }
+        ],
+        "class": "image",
+        "filename": "w_6456.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 596.0596561179747,
+                "type": "rect",
+                "width": 666.4604029035622,
+                "x": 619.5265717131706,
+                "y": 563.2059742847006
+            }
+        ],
+        "class": "image",
+        "filename": "w_6593.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 506.88537685623044,
+                "type": "rect",
+                "width": 572.592740522779,
+                "x": 774.4082146414632,
+                "y": 675.8471691416406
+            }
+        ],
+        "class": "image",
+        "filename": "w_6607.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 497.49861061815204,
+                "type": "rect",
+                "width": 581.9795067608575,
+                "x": 2290.3709620911154,
+                "y": 1426.7884681879082
+            }
+        ],
+        "class": "image",
+        "filename": "w_6959.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 352.0037339279378,
+                "type": "rect",
+                "width": 417.7110975944863,
+                "x": 1253.1332927834587,
+                "y": 1004.3839874743827
+            }
+        ],
+        "class": "image",
+        "filename": "w_7012.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 1018.4641368315004,
+                "type": "rect",
+                "width": 1154.572247283636,
+                "x": 2065.0885723772353,
+                "y": 1661.4576241398665
+            }
+        ],
+        "class": "image",
+        "filename": "w_7022.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 356.697117046977,
+                "type": "rect",
+                "width": 417.7110975944863,
+                "x": 1300.0671239738504,
+                "y": 389.5507988802512
+            }
+        ],
+        "class": "image",
+        "filename": "w_7187.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 361.61550900000077,
+                "type": "rect",
+                "width": 440.1056970000009,
+                "x": 1432.4459310000032,
+                "y": 619.5118410000014
+            }
+        ],
+        "class": "image",
+        "filename": "w_7297.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 288.73176300000057,
+                "type": "rect",
+                "width": 336.3865200000007,
+                "x": 1174.5495990000024,
+                "y": 885.8178360000019
+            }
+        ],
+        "class": "image",
+        "filename": "w_7392.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 555.0377580000013,
+                "type": "rect",
+                "width": 611.1021780000012,
+                "x": 1210.9914720000027,
+                "y": 826.9501950000017
+            }
+        ],
+        "class": "image",
+        "filename": "w_7425.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 414.87670800000086,
+                "type": "rect",
+                "width": 456.92502300000115,
+                "x": 1488.510351000003,
+                "y": 283.1253210000006
+            }
+        ],
+        "class": "image",
+        "filename": "w_7530.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 479.35079100000104,
+                "type": "rect",
+                "width": 535.4152110000012,
+                "x": 1000.7498970000021,
+                "y": 476.54757000000103
+            }
+        ],
+        "class": "image",
+        "filename": "w_753.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 333.5832990000006,
+                "type": "rect",
+                "width": 378.4348350000007,
+                "x": 1070.8304220000023,
+                "y": 927.866151000002
+            }
+        ],
+        "class": "image",
+        "filename": "w_7721.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 412.0734870000009,
+                "type": "rect",
+                "width": 459.72824400000104,
+                "x": 1424.036268000003,
+                "y": 1017.5692230000021
+            }
+        ],
+        "class": "image",
+        "filename": "w_7812.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 660.0744488700016,
+                "type": "rect",
+                "width": 735.1727394600016,
+                "x": 1877.457264750004,
+                "y": 1762.8335580600037
+            }
+        ],
+        "class": "image",
+        "filename": "w_7846.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 359.68128651000075,
+                "type": "rect",
+                "width": 391.3016193900007,
+                "x": 841.8913629300018,
+                "y": 766.7930723400016
+            }
+        ],
+        "class": "image",
+        "filename": "w_7885.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 363.63382812000077,
+                "type": "rect",
+                "width": 418.9694106600009,
+                "x": 1339.9116057900028,
+                "y": 944.657444790002
+            }
+        ],
+        "class": "image",
+        "filename": "w_7914.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 545.4507421800012,
+                "type": "rect",
+                "width": 612.6439495500013,
+                "x": 1082.9964011400023,
+                "y": 636.3591992100013
+            }
+        ],
+        "class": "image",
+        "filename": "w_7987.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 395.25416100000086,
+                "type": "rect",
+                "width": 434.779577100001,
+                "x": 1541.4912279000032,
+                "y": 810.2710300500017
+            }
+        ],
+        "class": "image",
+        "filename": "w_8083.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.83216844925005,
+                "type": "rect",
+                "width": 408.4076654060541,
+                "x": 1397.5568665918158,
+                "y": 1041.0854360928897
+            }
+        ],
+        "class": "image",
+        "filename": "w_8100.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 297.4529817408256,
+                "type": "rect",
+                "width": 351.749954598278,
+                "x": 1095.382408950342,
+                "y": 488.67275571707074
+            }
+        ],
+        "class": "image",
+        "filename": "w_8204.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 538.248252673875,
+                "type": "rect",
+                "width": 597.2667014319752,
+                "x": 1220.5015203175149,
+                "y": 729.46802665012
+            }
+        ],
+        "class": "image",
+        "filename": "w_8335.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 652.4135399515445,
+                "type": "rect",
+                "width": 748.9441147402933,
+                "x": 1867.367326085798,
+                "y": 961.9771073775322
+            }
+        ],
+        "class": "image",
+        "filename": "w_8457.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 499.29607649352886,
+                "type": "rect",
+                "width": 552.5543246528387,
+                "x": 1291.5125178632613,
+                "y": 975.2916694173597
+            }
+        ],
+        "class": "image",
+        "filename": "w_857.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 873.5324661155707,
+                "type": "rect",
+                "width": 972.797519083249,
+                "x": 2388.9789414221286,
+                "y": 1621.3291984720815
+            }
+        ],
+        "class": "image",
+        "filename": "w_8628.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 509.56060523408286,
+                "type": "rect",
+                "width": 522.7959456297733,
+                "x": 1350.0047203604272,
+                "y": 330.88350989226154
+            }
+        ],
+        "class": "image",
+        "filename": "w_8662.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 563.4474210000014,
+                "type": "rect",
+                "width": 630.7247250000014,
+                "x": 829.7534160000021,
+                "y": 773.6889960000019
+            }
+        ],
+        "class": "image",
+        "filename": "w_870.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 274.71565800000076,
+                "type": "rect",
+                "width": 311.157531000001,
+                "x": 1076.4368640000025,
+                "y": 549.4313160000013
+            }
+        ],
+        "class": "image",
+        "filename": "w_8756.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 580.2667470000015,
+                "type": "rect",
+                "width": 641.9376090000017,
+                "x": 1421.2330470000034,
+                "y": 860.588847000002
+            }
+        ],
+        "class": "image",
+        "filename": "w_8837.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 336.3865200000008,
+                "type": "rect",
+                "width": 395.254161000001,
+                "x": 1491.3135720000037,
+                "y": 894.2274990000022
+            }
+        ],
+        "class": "image",
+        "filename": "w_9084.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 403.6638240000009,
+                "type": "rect",
+                "width": 456.92502300000115,
+                "x": 1530.5586660000038,
+                "y": 1054.0110960000027
+            }
+        ],
+        "class": "image",
+        "filename": "w_9125.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 476.5475700000012,
+                "type": "rect",
+                "width": 583.0699680000016,
+                "x": 1143.7141680000027,
+                "y": 602.6925150000014
+            }
+        ],
+        "class": "image",
+        "filename": "w_9377.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 308.35431000000085,
+                "type": "rect",
+                "width": 361.6155090000009,
+                "x": 1269.8591130000032,
+                "y": 1056.8143170000026
+            }
+        ],
+        "class": "image",
+        "filename": "w_9434.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 462.53146500000116,
+                "type": "rect",
+                "width": 510.1862220000014,
+                "x": 1110.0755160000026,
+                "y": 1068.0272010000026
+            }
+        ],
+        "class": "image",
+        "filename": "w_988.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 263.5027740000006,
+                "type": "rect",
+                "width": 305.55108900000073,
+                "x": 1533.3618870000037,
+                "y": 742.8535650000018
+            }
+        ],
+        "class": "image",
+        "filename": "w_992.jpg"
+    }
+]
