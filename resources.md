@@ -58,6 +58,7 @@
  <li>[Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
  <li>[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - free online book
  <li>[libccv](http://libccv.org/doc/doc-convnet/) - CNN library 
+ <li>[R-CNN](https://github.com/rbgirshick/rcnn) - R-CNN: Regions with Convolutional Neural Network Features
 
 <h4>Miscellany</h4>
 [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) - Coursera course on neural networks
