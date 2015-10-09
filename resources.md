@@ -30,6 +30,7 @@
 <li>[Multiresolution Gray Scale and Rotation Invariant Texture Classification with Local Binary Patterns](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/lbp.pdf)
 <li>[Histograms of Oriented Gradients for Human Detection](https://hal.inria.fr/inria-00548512/document)
 <li>[Weakly supervised Fine Grained Classification](http://arxiv.org/pdf/1504.04943v1.pdf)
+<li>[Fine-Grained Recognition without Part Annotations](http://vision.stanford.edu/pdf/joncvpr15.pdf)
 
 
 
