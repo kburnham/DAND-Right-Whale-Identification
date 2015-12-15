@@ -1,0 +1,110 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2257.251254926474,
+                "y": 1820.422143617232
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2691.3727477771868,
+                "y": 1756.3418400987275
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_2572.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2810.5079599524347,
+                "y": 879.0734595355399
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2294.2553738596944,
+                "y": 990.9883558213787
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_280.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2380.899164532602,
+                "y": 1633.5964699787753
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2307.7934661523364,
+                "y": 1971.146237808644
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_5622.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2431.441375758469,
+                "y": 1386.3006507665214
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2031.6163833824476,
+                "y": 1491.8977706491276
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2878.1984214156487,
+                "y": 2403.4626516870094
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2688.6651293186633,
+                "y": 2125.480489944764
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_9036.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2492.8140608184453,
+                "y": 1895.3329209698534
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2993.723475646192,
+                "y": 1754.5367611263787
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03728/w_906.jpg"
+    }
+]

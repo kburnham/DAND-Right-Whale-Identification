@@ -1,0 +1,164 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2075.0,
+                "y": 1764.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2565.0,
+                "y": 1618.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_1617.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1062.0,
+                "y": 505.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1388.0,
+                "y": 759.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_215.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2584.0,
+                "y": 2236.0
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2285.0,
+                "y": 2069.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_3402.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1788.0,
+                "y": 1018.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1439.0,
+                "y": 1044.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_3673.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1766.0,
+                "y": 2044.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2156.0,
+                "y": 1913.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_4560.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1279.0,
+                "y": 885.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1562.0,
+                "y": 1084.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_7524.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1365.0,
+                "y": 759.0
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1559.0,
+                "y": 1084.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_8785.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1627.0,
+                "y": 2679.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2205.0,
+                "y": 2381.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_8914.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1218.0,
+                "y": 951.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1339.0,
+                "y": 1172.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../imgs/whale_03623/w_9233.jpg"
+    }
+]

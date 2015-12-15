@@ -1,0 +1,1802 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1515.0,
+                "y": 963.0
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1719.0,
+                "y": 857.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1104.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1049.0,
+                "y": 835.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1447.0,
+                "y": 739.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1124.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1700.0,
+                "y": 623.0
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1271.0,
+                "y": 672.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1180.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1217.0,
+                "y": 715.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1592.0,
+                "y": 749.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1195.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1372.0,
+                "y": 527.0
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1325.0,
+                "y": 827.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1203.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1589.0,
+                "y": 1277.0
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1430.0,
+                "y": 952.0
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1227.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2531.0000000000005,
+                "y": 1153.0000000000002
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2611.0000000000005,
+                "y": 1589.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_132.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1287.0000000000002,
+                "y": 1191.0000000000002
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1604.0000000000005,
+                "y": 1036.0000000000002
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1348.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1624.4099975067877,
+                "y": 885.8259196930289
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1865.4591418736575,
+                "y": 556.9066438820785
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1522.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1576.912629158636,
+                "y": 978.4457879719247
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1219.4949323387946,
+                "y": 1029.5054589461877
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1756.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1449.1231436892322,
+                "y": 1182.6810339609285
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1816.8047831871138,
+                "y": 1248.3384695855502
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1897.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1457.3409130512825,
+                "y": 836.7764832724782
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1656.829382296827,
+                "y": 1075.0875588083231
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1908.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2074.220181586842,
+                "y": 1131.8521819134048
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1767.6768823186283,
+                "y": 1271.6494008104473
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1924.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1135.0500000000038,
+                "y": 924.9600000000031
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1615.8600000000056,
+                "y": 829.0800000000028
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1949.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1241.1347517730544,
+                "y": 275.88652482269606
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1092.1985815602877,
+                "y": 557.4468085106404
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_1991.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1499.1075140357245,
+                "y": 823.8949179992891
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1400.8331587782257,
+                "y": 964.1053127847722
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2094.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1226.7994567677742,
+                "y": 859.1117147024839
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1500.9305366933327,
+                "y": 991.398822996836
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2205.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1871.6362356018403,
+                "y": 781.6508223932437
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1591.9722347970505,
+                "y": 729.3395704441464
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2287.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1842.0000000000093,
+                "y": 982.000000000005
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2217.0000000000114,
+                "y": 1269.0000000000066
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2295.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2004.0000000000107,
+                "y": 1756.0000000000093
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2425.0000000000127,
+                "y": 2163.0000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2502.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1869.5035460993006,
+                "y": 727.6595744680889
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1561.7021276595826,
+                "y": 829.0780141844015
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2597.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 948.2630631209053,
+                "y": 1527.6635848146734
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 666.9843214846865,
+                "y": 1848.5234667410189
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_260.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1899.8947339260767,
+                "y": 909.5240747518452
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1757.5710592658343,
+                "y": 1078.7966108862165
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2621.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1374.3919351805662,
+                "y": 817.7295153555942
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1654.8285248957184,
+                "y": 686.3538156692166
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2757.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2000.0000000000105,
+                "y": 371.6312056737608
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1765.9574468085198,
+                "y": 626.2411347517763
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2769.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1575.8865248227032,
+                "y": 994.326241134757
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1535.4609929078094,
+                "y": 1204.9645390070984
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2894.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1563.1205673758946,
+                "y": 1443.9716312056812
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1586.5248226950437,
+                "y": 1180.8510638297935
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2931.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2127.275752614038,
+                "y": 965.1061015422358
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1731.464349712772,
+                "y": 615.6130542996286
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_2959.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1437.5533292605553,
+                "y": 1037.5311667539568
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1656.5128287378516,
+                "y": 999.6343303059632
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3034.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1464.502190734684,
+                "y": 1095.639649307547
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 986.1598995688988,
+                "y": 1136.06294151874
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3208.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1258.174970073386,
+                "y": 602.9807754836307
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1495.6618118141455,
+                "y": 730.9878674857423
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3309.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1606.8258653949265,
+                "y": 1230.3839566781905
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1786.204224582096,
+                "y": 778.1483750654676
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3542.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1221.120285546459,
+                "y": 1097.32395314968
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1664.9343479485167,
+                "y": 1127.6414223080749
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3810.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1557.1389020520016,
+                "y": 862.3635671721199
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1728.095742028506,
+                "y": 1021.5302802536928
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_3846.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1467.0286464978838,
+                "y": 974.3697726739675
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1686.8302978962463,
+                "y": 852.2577441193216
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4134.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1472.081558024283,
+                "y": 1157.9588914664696
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1248.9112989416542,
+                "y": 1157.116739545403
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4196.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1774.4140976871647,
+                "y": 915.4191381993109
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1569.7711808679996,
+                "y": 730.9878674857423
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4286.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1037.5311667539568,
+                "y": 1207.6458548093945
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1462.817886892551,
+                "y": 1192.487120230197
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4324.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2381.605632776128,
+                "y": 1500.7147233405447
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2431.292596119053,
+                "y": 1904.9476454524759
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4390.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2315.0756310118727,
+                "y": 855.6263518035878
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1637.985486474388,
+                "y": 822.7824268819933
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4425.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1689.356753659446,
+                "y": 935.6307843049075
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1475.4501657085489,
+                "y": 775.621919302268
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_448.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1200.9086394408623,
+                "y": 1301.1247180477785
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1365.9704159699008,
+                "y": 1118.377751176343
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4514.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1024.898887937959,
+                "y": 804.2550846185298
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1365.9704159699008,
+                "y": 888.4702767251822
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4754.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1677.5666267645145,
+                "y": 1069.5329397544847
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1880.5252397415468,
+                "y": 1270.8072488893838
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4758.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1766.834730397566,
+                "y": 1225.3310451517916
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1648.9334614482527,
+                "y": 1017.3195206483603
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4822.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2952.000000000016,
+                "y": 1477.000000000008
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 3133.000000000017,
+                "y": 2275.0000000000123
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4851.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2809.000000000015,
+                "y": 1761.0000000000093
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2715.0000000000146,
+                "y": 2127.0000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_4994.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2030.000000000011,
+                "y": 933.000000000005
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1781.0000000000095,
+                "y": 806.0000000000043
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5177.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1202.0000000000064,
+                "y": 793.0000000000042
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1106.000000000006,
+                "y": 1171.0000000000061
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5182.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1770.9600000000094,
+                "y": 2146.0200000000114
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2026.1700000000108,
+                "y": 1782.2400000000093
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5320.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1642.6500000000087,
+                "y": 802.2900000000043
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2041.6800000000108,
+                "y": 919.3200000000048
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5340.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2632.470000000014,
+                "y": 1342.3200000000072
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2865.1200000000154,
+                "y": 1696.2300000000089
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5463.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1914.7800000000102,
+                "y": 1119.5400000000059
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1639.8300000000088,
+                "y": 1229.5200000000066
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5614.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1831.5900000000097,
+                "y": 648.6000000000034
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1535.4900000000082,
+                "y": 829.0800000000044
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5657.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1433.9700000000075,
+                "y": 855.8700000000046
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1163.2500000000061,
+                "y": 1153.380000000006
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5687.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1182.9900000000064,
+                "y": 1285.920000000007
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1459.3500000000076,
+                "y": 1201.3200000000063
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_574.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1807.6200000000097,
+                "y": 877.0200000000046
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1744.1700000000092,
+                "y": 759.990000000004
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_577.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 3028.776561798691,
+                "y": 2169.8697756169727
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 3147.6506004320286,
+                "y": 1714.465007894892
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5800.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1227.2488777216365,
+                "y": 1736.2306769404327
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2099.5499217775337,
+                "y": 1786.4591439686035
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5829.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1607.3109449014614,
+                "y": 884.0210196958037
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2059.3671481549973,
+                "y": 996.1979293920516
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_5873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1719.4878545977092,
+                "y": 907.4609709756168
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1562.1053245761077,
+                "y": 1133.4890726023848
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6134.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1528.6196798906606,
+                "y": 1364.5400209319698
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1305.9401427324374,
+                "y": 1563.77960681038
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6296.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1751.299217048884,
+                "y": 785.2383678737348
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1536.9910910620224,
+                "y": 1021.3121629061369
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6384.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1629.076613947002,
+                "y": 1093.3062989798482
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1475.0426483939452,
+                "y": 1305.9401427324374
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6483.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1729.5335480033432,
+                "y": 706.547102862934
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1433.1855925371365,
+                "y": 622.8329911493163
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6534.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1778.0877327972416,
+                "y": 1801.5276840770546
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2484.6348356601757,
+                "y": 1963.9330608014732
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6597.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2817.8170002803745,
+                "y": 1672.607952038083
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2499.7033757686268,
+                "y": 1696.0479033178963
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6704.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2846.279798263006,
+                "y": 1896.9617714305798
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2861.348338371457,
+                "y": 2327.2523056385753
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_6731.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2451.1491909747297,
+                "y": 952.6665913009708
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2568.348947373795,
+                "y": 1431.5113103028648
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7055.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1709.442161192076,
+                "y": 1182.0432573962837
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1575.4995824502873,
+                "y": 1496.8083174394867
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7089.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1496.8083174394867,
+                "y": 895.7409953357107
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1660.8879763981777,
+                "y": 1043.077831951678
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7150.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1458.2998260512225,
+                "y": 654.6443536004914
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1017.9635984375927,
+                "y": 654.6443536004914
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7295.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1518.5739864850273,
+                "y": 1210.5060553789137
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1831.664764293958,
+                "y": 1053.1235253573122
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7314.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1583.8709936216492,
+                "y": 790.2612145765522
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1289.1973203897144,
+                "y": 884.0210196958042
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7335.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2600.1603098249698,
+                "y": 2198.332573599604
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 3079.0050288268635,
+                "y": 2379.1550549010185
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7394.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1598.4324000000097,
+                "y": 572.5728000000034
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1163.038500000007,
+                "y": 530.8227000000032
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7622.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1749.5280000000105,
+                "y": 727.6446000000044
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1640.18250000001,
+                "y": 900.6093000000054
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7636.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1620.3015000000098,
+                "y": 972.1809000000059
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1920.5046000000116,
+                "y": 976.1571000000059
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7674.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 970.1928000000058,
+                "y": 1222.6815000000074
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1165.026600000007,
+                "y": 1518.9084000000091
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7722.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1612.3491000000097,
+                "y": 1339.9794000000081
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1431.4320000000087,
+                "y": 1095.4431000000066
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7775.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1232.6220000000073,
+                "y": 984.1095000000059
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1282.3245000000077,
+                "y": 1288.2888000000078
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7859.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1632.2301000000098,
+                "y": 946.3356000000057
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1252.5030000000074,
+                "y": 952.2999000000058
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_7923.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1013.9310000000061,
+                "y": 1246.5387000000076
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 578.5371000000035,
+                "y": 1316.122200000008
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8220.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1196.8362000000072,
+                "y": 397.6200000000024
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1495.051200000009,
+                "y": 634.2039000000038
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8373.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1759.4685000000106,
+                "y": 783.3114000000047
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2087.5050000000124,
+                "y": 924.4665000000056
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8408.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1799.2305000000108,
+                "y": 1059.6573000000064
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1499.027400000009,
+                "y": 988.085700000006
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8413.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1745.5518000000104,
+                "y": 1341.9675000000082
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1524.8727000000092,
+                "y": 1196.8362000000072
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8436.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1254.4911000000075,
+                "y": 836.990100000005
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1622.2896000000098,
+                "y": 842.9544000000051
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_854.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1711.7541000000103,
+                "y": 1039.7763000000064
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1614.3372000000097,
+                "y": 1234.6101000000074
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8718.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1437.3963000000088,
+                "y": 982.1214000000059
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1650.1230000000098,
+                "y": 1244.5506000000075
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8724.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1701.8136000000102,
+                "y": 1103.3955000000067
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1620.3015000000098,
+                "y": 1465.2297000000087
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8754.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 2336.017500000014,
+                "y": 2071.6002000000126
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 3009.9834000000183,
+                "y": 2194.862400000013
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_876.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1737.5994000000105,
+                "y": 1137.1932000000068
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1862.8497000000111,
+                "y": 803.1924000000048
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8884.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1485.110700000009,
+                "y": 504.97740000000306
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1252.5030000000074,
+                "y": 727.6446000000044
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8954.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 2099.4336000000126,
+                "y": 483.1083000000029
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1918.5165000000115,
+                "y": 856.8711000000052
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_8970.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1530.8370000000093,
+                "y": 908.5617000000054
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1719.7065000000105,
+                "y": 1157.074200000007
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_9137.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1379.7414000000083,
+                "y": 787.2876000000048
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1278.3483000000076,
+                "y": 552.6918000000034
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_918.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1570.5990000000095,
+                "y": 813.132900000005
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1465.2297000000087,
+                "y": 996.038100000006
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_9206.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 3157.102800000019,
+                "y": 1864.8378000000112
+            },
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 3067.6383000000183,
+                "y": 1550.7180000000094
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_9326.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "TipOfHead",
+                "type": "Point",
+                "x": 1858.8735000000113,
+                "y": 914.5260000000055
+            },
+            {
+                "class": "Blowholes",
+                "type": "point",
+                "x": 1610.3610000000097,
+                "y": 880.7283000000053
+            }
+        ],
+        "class": "image",
+        "filename": "../../../files_for_annotation/w_9442.jpg"
+    }
+]
