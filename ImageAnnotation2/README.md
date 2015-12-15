@@ -9,3 +9,5 @@
 ![alt tag](/ImageAnnotation2/marked_w_316.jpg)
 
 ![alt tag](/ImageAnnotation2/marked_w_576.jpg)
+
+##Finally, there is a third annotation called illegible. An image is illegible if the pattern of callosities on the whale's head are too hard to distinguish. Use this annotation anywhere on the image if that image is illegible, otherwise, do not use this annotation. The lines are blurry as to the legibility of an image, but try to make a judgement call as to weather the pattern is clear enough to be distinguished.
