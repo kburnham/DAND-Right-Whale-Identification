@@ -4,8 +4,8 @@
 
 ##Use the following images for reference:
 
-![alt tag](/ImageAnnotations2/marked_w_160.jpg)
+![alt tag](/ImageAnnotation2/marked_w_160.jpg)
 
-![alt tag](/ImageAnnotations2/marked_w_316.jpg)
+![alt tag](/ImageAnnotation2/marked_w_316.jpg)
 
-![alt tag](/ImageAnnotations2/marked_w_576.jpg)
+![alt tag](/ImageAnnotation2/marked_w_576.jpg)
