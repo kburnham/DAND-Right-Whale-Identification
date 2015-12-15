@@ -10,4 +10,10 @@ LABELS = (
      "inserter": "sloth.items.PointItemInserter",
      "text":     "TipOfHead"
     },
+    
+    {"attributes": {"type": "Point", "class": "illegible"},
+     "item":     "sloth.items.PointItem",
+     "inserter": "sloth.items.PointItemInserter",
+     "text":     "illegible"
+    },
 )
