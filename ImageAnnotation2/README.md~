@@ -4,8 +4,8 @@
 
 ##Use the following images for reference:
 
-![alt tag]('marked_w_160.jpg')
+![alt tag](/marked_w_160.jpg)
 
-![alt tag]('marked_w_316.jpg')
+![alt tag](/marked_w_316.jpg)
 
-![alt tag]('marked_w_576.jpg')
+![alt tag](/marked_w_576.jpg)
